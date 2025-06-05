@@ -54,7 +54,7 @@ Set up *Netdata* on an *AWS EC2 instance* using *Docker* to watch system resourc
 
 This is what the Netdata dashboard looks like on the EC2 server:
 
-<img src="./netdata-system-monitoring-docker/monitoring.png" alt="Netdata Dashboard" width="400" height="400" />
+<img src="![Monitoring Dashboard](data-monitoring/scrteenshot/monitoring-ss.jpg)" alt="Netdata Dashboard" width="400" height="400" />
 
 ---
 
