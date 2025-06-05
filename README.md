@@ -69,9 +69,9 @@ This is what the Netdata dashboard looks like on the EC2 server:
 ### 📁 Project Structure
 
 ```
-task-7-netdata-monitoring/
+task-7-netdata-system-monitoring-docer/
 │
-├── screenshot/
-│   └── netdata-dashboard.png
+├── scrteenshot/
+│   └── montorng.ss.png
 │
 └── README.md
